@@ -1,0 +1,56 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f4f4;
+    margin: 20px;
+}
+
+.ms-font-m {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+}
+
+.ms-Dropdown {
+    display: inline-block;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 8px;
+    border: 1px solid #0078d4;
+    color: #333;
+    background-color: #ffffff;
+    border-radius: 4px;
+    transition: background-color 0.3s, color 0.3s, border 0.3s;
+}
+
+.ms-Dropdown:hover {
+    background-color: #0078d4;
+    color: #ffffff;
+    border: 1px solid #005a9e;
+}
+
+.ms-Button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border: 1px solid #0078d4;
+    color: #0078d4;
+    background-color: #ffffff;
+    border-radius: 4px;
+    transition: background-color 0.3s, color 0.3s, border 0.3s;
+}
+
+.ms-Button:hover {
+    background-color: #0078d4;
+    color: #ffffff;
+    border: 1px solid #005a9e;
+}
+
+button {
+    margin-top: 10px;
+}
+
+/* Add additional styles as needed */
